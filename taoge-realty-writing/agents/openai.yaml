@@ -1,0 +1,4 @@
+interface:
+  display_name: "涛哥式地产写作"
+  short_description: "提炼地产稿件的判断、结构与生活解释，写出有力度且具体的项目及企业文章"
+  default_prompt: "请用 $taoge-realty-writing，根据我提供的素材与传播目的写稿，保留鲜明判断、具体细节和自然口语。"
